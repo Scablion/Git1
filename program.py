@@ -1,2 +1,2 @@
+#I`m author
 print("My first Git programm!")
-print("New Change!")
